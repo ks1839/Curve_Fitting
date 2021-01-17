@@ -1,0 +1,4 @@
+Bokeh
+pandas
+numpy
+sqlalchemy
